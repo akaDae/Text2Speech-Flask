@@ -28,5 +28,6 @@
 
 ### Για Windows...(Σύντομα)
 
-###Demo Image:
-<img src="demo.png" width=300 alt="demo">
+### Demo Image:
+<br>
+<img src="demo.png" width=400 align="center" alt="demo">
