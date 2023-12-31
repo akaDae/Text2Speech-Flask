@@ -30,4 +30,4 @@
 
 ### Demo Image:
 <br>
-<img src="demo.png" width=400 align="center" alt="demo">
+<img src="demo.png" width=400 heigh=400 alt="demo">
